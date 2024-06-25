@@ -47,6 +47,11 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"dayjs": "^1.11.10"
+		"dayjs": "^1.11.10",
+		"install": "^0.13.0",
+		"svelte-brick-gallery": "^1.0.1",
+		"svelte-image-gallery": "^1.7.1",
+		"svelte-masonry": "^0.1.1",
+		"svelte-masonry-layout": "^0.0.7"
 	}
 }
