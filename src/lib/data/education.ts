@@ -5,10 +5,10 @@ export const items: Array<Education> = [
 	{
 		degree: 'Bachelor degree of Computer Science',
 		description: '',
-		location: 'Tunisia',
+		location: 'Troy, NY',
 		logo: Assets.Unknown,
 		name: '',
-		organization: 'ISTIC',
+		organization: 'Rensselaer Polytechnic Institute',
 		period: { from: new Date(2020, 0, 1), to: new Date(2022, 5, 1) },
 		shortDescription: '',
 		slug: 'dummy-education-item',
