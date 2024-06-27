@@ -1,4 +1,4 @@
-import{A as n}from"./assets.8062788d.js";import"./index.433bca53.js";const m=`# Svelte
+import{A as n}from"./assets.b06526fe.js";import"./index.433bca53.js";const m=`# Svelte
 
 ---
 
